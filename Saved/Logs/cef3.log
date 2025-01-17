@@ -1,0 +1,14 @@
+[0107/205113.765:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0107/211824.633:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 183
+[0107/211825.260:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 185
+[0107/211825.884:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 187
+[0107/211825.886:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 5
+[0107/212146.556:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0107/212146.556:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0107/212146.715:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 317
+[0107/212146.790:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 321
+[0107/212146.913:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 323
+[0107/212146.913:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 325
+[0107/212147.154:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 327
+[0107/212147.234:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 329
+[0107/212149.001:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 331
